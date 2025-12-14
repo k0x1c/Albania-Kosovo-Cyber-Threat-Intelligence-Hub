@@ -28,7 +28,7 @@ Content will evolve as the hub grows and new initiatives are introduced.
 
 ## Contributing
 
-Contributions are welcome. More details about contribution guidelines, standards, and workflows will be shared soon.
+Contributions are welcome.
 
 ## Roadmap
 
